@@ -4,7 +4,9 @@
 
 please install these Libraries before running the code.
 
-Tensorflow, numpy, pandas, deepxde, pyplot
+Tensorflow, numpy, pandas, deepxde, matplotlib, scipy, PIL, 
+
+
 
 Steps:
 
