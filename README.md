@@ -2,7 +2,10 @@
 
 # RheologyNet
 
-This repo is the code work for the paper: RheologyNet
+This repo is the code work for the paper: 
+
+**RheologyNet: A Physics-Informed Neural Network Solution to Evaluate the Thixotropic Properties of Cementitious Materials**
+
 
 Please install these Libraries before running the code: Tensorflow, numpy, pandas, deepxde, matplotlib, scipy, PIL
 
@@ -45,4 +48,12 @@ Thixotropy:
 <img src="https://user-images.githubusercontent.com/95270677/218333322-ec965fb3-fdda-4e1f-8c74-ca6f6ff14a81.png" width=30%/>  
 </div>
 
+Comparision between three methods: 
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/95270677/218333536-f5676447-8687-4532-8dfa-a7561cc48c66.png" width=50%/>
+</div>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/95270677/218333544-072cc2c9-6104-4beb-bbfd-a4c9dd15a1c1.png" width=50%/>
+</div>
 
